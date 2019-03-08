@@ -157,7 +157,7 @@ border-left-width: 1px;
   float: left;
   width: 200px;
   z-index: 1001;
-  position: fixed;
+#  position: fixed;
   background: #B7C257;
   }
   #colorlib-aside .author-img {
