@@ -155,9 +155,8 @@ border-left-width: 1px;
   padding-top: 3em;
   padding-bottom: 40px;
   float: left;
-  width: 200px;
+  width: 220px;
   z-index: 1001;
-#  position: fixed;
   background: #B7C257;
   }
   #colorlib-aside .author-img {
