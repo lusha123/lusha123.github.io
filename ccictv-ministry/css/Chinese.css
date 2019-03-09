@@ -259,7 +259,7 @@ border-left-width: 1px;
   clear: both;
   width: 100%;
   display: block; }
-  @media screen and (max-width: 768px) {
+  @media screen and (max-width: 868px) {
     .colorlib-experience,
     .colorlib-skills,
     .colorlib-education,
@@ -268,7 +268,7 @@ border-left-width: 1px;
     .colorlib-about,
     .colorlib-services,
     .colorlib-contact {
-      padding-top: 5em;
+      padding-top: 1em;
       padding-bottom: 8em; } }      
 
 .blog-entry {
@@ -276,7 +276,7 @@ border-left-width: 1px;
   float: left;
   background: #fff;
   margin-bottom: 3em; }
-  @media screen and (max-width: 768px) {
+  @media screen and (max-width: 868px) {
     .blog-entry {
       margin-bottom: 3em; } }
   .blog-entry .blog-img {
