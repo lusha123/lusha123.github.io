@@ -193,6 +193,7 @@ border-left-width: 1px;
       display: block !important; }
     #colorlib-aside #colorlib-main-menu ul {
       text-align: center;
+      position: fixed;
       margin: 0;
       padding: 0; }
       @media screen and (max-width: 768px) {
