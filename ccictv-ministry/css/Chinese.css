@@ -337,3 +337,24 @@ border-left-width: 1px;
     -ms-transform: scale(1.1);
     -o-transform: scale(1.1);
     transform: scale(1.1); }
+
+.row-bottom-padded-lg {
+  padding-bottom: 7em; }
+  @media screen and (max-width: 768px) {
+    .row-bottom-padded-lg {
+      padding-bottom: 1em; } }
+
+.row-bottom-padded-md {
+  padding-bottom: 3em; }
+  @media screen and (max-width: 768px) {
+    .row-bottom-padded-md {
+      padding-bottom: 1em; } }
+
+.row-bottom-padded-sm {
+  padding-bottom: 1em; }
+  @media screen and (max-width: 768px) {
+    .row-bottom-padded-sm {
+      padding-bottom: 1em; } }
+
+.row-pt-md {
+  padding-top: 3em; }
