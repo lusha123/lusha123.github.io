@@ -156,6 +156,7 @@ border-left-width: 1px;
   padding-bottom: 40px;
   float: left;
   width: 210px;
+
   z-index: 1001;
   background: #B7C257;
   }
@@ -236,7 +237,7 @@ border-left-width: 1px;
   margin: 0 auto; }
 
 #colorlib-main {
-  width: calc(100% - 300px);
+  width: calc(100% - 210px);
   float: right;
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
@@ -245,6 +246,13 @@ border-left-width: 1px;
     #colorlib-main {
       width: 100%;
       padding: 0 1em; } }
+
+.colorlib-narrow-content {
+  padding: 0 2.5em; }
+  @media screen and (max-width: 768px) {
+    .colorlib-narrow-content {
+      padding: 0; } }
+
 
 .colorlib-experience,
 .colorlib-skills,
@@ -259,7 +267,7 @@ border-left-width: 1px;
   clear: both;
   width: 100%;
   display: block; }
-  @media screen and (max-width: 868px) {
+  @media screen and (max-width: 768px) {
     .colorlib-experience,
     .colorlib-skills,
     .colorlib-education,
@@ -268,7 +276,7 @@ border-left-width: 1px;
     .colorlib-about,
     .colorlib-services,
     .colorlib-contact {
-      padding-top: 1em;
+      padding-top: 5em;
       padding-bottom: 8em; } }      
 
 .blog-entry {
@@ -276,7 +284,7 @@ border-left-width: 1px;
   float: left;
   background: #fff;
   margin-bottom: 3em; }
-  @media screen and (max-width: 868px) {
+  @media screen and (max-width: 768px) {
     .blog-entry {
       margin-bottom: 3em; } }
   .blog-entry .blog-img {
