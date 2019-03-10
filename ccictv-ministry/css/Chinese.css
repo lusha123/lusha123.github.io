@@ -156,7 +156,7 @@ border-left-width: 1px;
   padding-bottom: 40px;
   float: left;
   width: 210px;
-  overflow-y: scroll;
+  height: auto;
   z-index: 1001;
   background: #B7C257;
   }
