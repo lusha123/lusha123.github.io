@@ -153,7 +153,7 @@ border-left-width: 1px;
 
 #colorlib-aside {
   padding-top: 3em;
-  padding-bottom: 4px;
+  padding-bottom: 0px;
   float: left;
   width: 210px;
   height: 100%;
