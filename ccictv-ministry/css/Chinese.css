@@ -262,8 +262,8 @@ border-left-width: 1px;
 .colorlib-about,
 .colorlib-services,
 .colorlib-contact {
-  padding-top: 4em;
-  padding-bottom: 9em;
+  padding-top: 1em;
+  padding-bottom: 2em;
   clear: both;
   width: 100%;
   display: block; }
